@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  background-color: black;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lateef", serif;
+  border-bottom: 1px solid white;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: auto;
+  color: white;
+  margin: 20px 0px 10px 160px;
+}
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+header h1 {
+  float: left;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-left: 20px;
+  float: left;
+}
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+main > #fritas {
+  color: white;
+  border-bottom: none;
+}
+main table {
+  color: white;
+  margin: 0px 30px 0px 0px;
+}
+main table > #right {
+  margin: 0px 0px 0px 50px;
+}
+
+table td#left {
+  width: 60%;
+}
+
+table td#right {
+  width: 40%;
+  vertical-align: top;
+  border-left: 1px solid white;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+table td h2 {
+  margin: 30px 0 40px;
+}
+
+table td h3 {
+  margin: 15px 0;
+}
+
+table td p {
+  margin-bottom: 10px;
+}
