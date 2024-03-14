@@ -15,16 +15,13 @@ h6 {
   border-bottom: 1px solid white;
 }
 
-p {
-  font-family: "Roboto", sans-serif;
-}
 
 header {
   max-width: 1000px;
   margin: 0 auto;
   overflow: auto;
   color: white;
-  margin: 20px 0px 10px 160px;
+  margin: 20px 0px 10px 98px;
 }
 header nav ul li a {
   color: white;
